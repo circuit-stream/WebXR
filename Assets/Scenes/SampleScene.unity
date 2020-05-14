@@ -325,7 +325,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://vod-progressive.akamaized.net/exp=1589492872~acl=%2A%2F1415612417.mp4%2A~hmac=cdeed0944d27e50df3c6ceaf926fdad50aa93906062bad7d12976c6aa4dddccc/vimeo-prod-skyfire-std-us/01/4989/13/349946900/1415612417.mp4
+  m_Url: https://circuitstream.s3.amazonaws.com/1415612417.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
